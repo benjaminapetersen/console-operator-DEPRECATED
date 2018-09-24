@@ -1,3 +1,5 @@
+DEPRECATED: see https://github.com/origin/console-operator (same code, moved organizations, development continues here)
+
 # Console Operator 
 
 An operator for OpenShift Console built
