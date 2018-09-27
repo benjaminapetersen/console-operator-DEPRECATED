@@ -1,4 +1,4 @@
-DEPRECATED: see https://github.com/origin/console-operator (same code, moved organizations, development continues here)
+DEPRECATED: see https://github.com/openshift/console-operator (same code, moved organizations, development continues here)
 
 # Console Operator 
 
